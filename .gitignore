@@ -1,0 +1,7 @@
+emotiondetect/emotion/
+filters/
+facequality/facequality
+syncnet_/
+# syncnet/detectors/s3fd/weights/
+# syncnet/data/
+# syncnet/videos/
