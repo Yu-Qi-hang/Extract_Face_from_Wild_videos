@@ -1,2 +1,3 @@
 - face quality evaluation
 - emotion detection
+- audio-video synchronization evaluation
