@@ -1,0 +1,2 @@
+- face quality evaluation
+- emotion detection
